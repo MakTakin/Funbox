@@ -134,8 +134,7 @@ const Round = styled.div`
 
 const CaptionDiv = styled.div`
     font-size:13px;
-    margin-top:${props => props.selected ? '14px' : '15px'};
-    margin-bottom:5px;
+    margin-top:${props => props.selected ? '15px' : '14px'};
     text-align:center;
     color: ${props => props.disabled ? '#ffff66' : '#FFF'};
     & > button {
