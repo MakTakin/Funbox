@@ -2,6 +2,7 @@
 
 # dependencies
 .idea/
+.firebase/
 /node_modules
 /.pnp
 .pnp.js
